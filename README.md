@@ -710,9 +710,8 @@ Add this below the "Screenshots" section:
 ![Mobile Responsive](screenshots/mobile.png)
 
 
-## 👩‍💻 Author
+## Author
 
-Rivky Peretz
-[GitHub](https://github.com/rivky9523)
-[Email](mailto:r0548551732@gmail.com)
+**Rivky Peretz**
+[GitHub](https://github.com/rivky9523) · [Email](mailto:r0548551732@gmail.com)
 
