@@ -1,4 +1,4 @@
-# 🎨 Task Manager - Advanced Web Application# Task Manager - Web Application
+#  Task Manager - Advanced Web Application# Task Manager - Web Application
 
 
 
