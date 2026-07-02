@@ -709,7 +709,7 @@ Add this below the "Screenshots" section:
 ### Mobile View
 ![Mobile Responsive](screenshots/mobile.png)
 
-
+```
 ## Author
 
 **Rivky Peretz**
